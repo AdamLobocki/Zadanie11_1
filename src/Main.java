@@ -16,7 +16,7 @@ public class Main {
                     scanner.nextLine();
                 }
             }
-            System.out.println("Podaj kolor kolor roweru ");
+            System.out.println("Podaj kolor roweru ");
             rower[i].setKolor(scanner.nextLine());
         }
         for (int i = 0; i < 3; i++) {

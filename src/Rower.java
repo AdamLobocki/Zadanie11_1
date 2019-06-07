@@ -1,8 +1,8 @@
 import java.util.Objects;
 
 public class Rower {
-   private String kolor;
-   private int id;
+    private String kolor;
+    private int id;
 
 
 
@@ -23,4 +23,3 @@ public class Rower {
         this.id = id;
     }
 }
-
